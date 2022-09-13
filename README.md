@@ -1,2 +1,1 @@
-# rsschool-cv 
-second commit
+# rsschool-cv
